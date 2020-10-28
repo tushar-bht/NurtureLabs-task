@@ -8,7 +8,7 @@ export default function mentorList() {
     <div>
       <div className="display-flex mentor-filter">
         <h3>Featured Experts</h3>
-        <select className="border" id="cars" name="cars">
+        <select className="border">
           <option value="Best Match">Best Match</option>
           <option value="Average">Average</option>
           <option value="Free">Free</option>
