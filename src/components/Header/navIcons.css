@@ -1,0 +1,22 @@
+.nav-icons {
+  flex-grow: 0.2;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-icons i:hover {
+  background-color: rgba(199, 197, 197, 0.272);
+}
+
+.far {
+  color: rgb(243, 142, 98);
+  padding: 12px;
+  border-radius: 50%;
+  margin: 0 5px;
+}
+
+.nav-image {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+}

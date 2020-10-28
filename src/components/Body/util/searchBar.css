@@ -1,0 +1,9 @@
+.filter-input {
+  background-color: rgb(247, 249, 252);
+  border-radius: 5px;
+  color: rgb(72, 195, 166);
+  padding: 0 5px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
+}

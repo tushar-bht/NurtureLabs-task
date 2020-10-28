@@ -1,0 +1,22 @@
+.logo {
+  flex-grow: 0.2;
+  justify-content: flex-start;
+  align-items: center;
+  color: rgb(99, 99, 99);
+  cursor: pointer;
+}
+
+.logo-color {
+  height: 18px;
+  width: 18px;
+  background-color: rgb(50, 188, 155);
+  border-radius: 50%;
+  margin: 0 10px;
+}
+
+.main-header {
+  background-color: rgb(255, 246, 243);
+  padding: 10px;
+  justify-content: space-around;
+  border: 2px solid rgba(234, 240, 248, 0.721);
+}

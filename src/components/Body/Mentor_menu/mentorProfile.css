@@ -1,0 +1,36 @@
+.mentor-profile {
+  margin: 8px;
+}
+
+.mentor-profile img {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  object-position: 50% 10%;
+}
+
+.profile-stats {
+  color: rgb(164, 174, 184);
+  margin: 15px 0;
+}
+
+.profile-stats span {
+  margin: 5px 50px 5px 0;
+}
+
+.profile-skills {
+  margin: 20px 0;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.like-profile:hover {
+  background-color: rgba(199, 197, 197, 0.272);
+}
+
+@media only screen and (max-width: 625px) {
+  .profile-description {
+    display: none;
+  }
+}

@@ -1,0 +1,16 @@
+.mentor-filter {
+  justify-content: space-between;
+  margin: 30px;
+}
+
+.mentor-filter select {
+  box-sizing: content-box;
+  width: 150px;
+  height: 30px;
+  outline: none;
+  font-weight: 700;
+}
+
+.mentor-filter option {
+  outline: none;
+}

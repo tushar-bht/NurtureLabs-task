@@ -1,0 +1,24 @@
+.filter-list {
+  margin: 10px 20px;
+}
+
+.filter-box {
+  width: 38%;
+}
+
+.filter-bar {
+  margin: 25px 5px 0 5px;
+}
+
+.filter-bar label {
+  color: rgb(167, 165, 165);
+  font-size: 13px;
+  font-weight: 700;
+  margin: 0 5px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .filter-box {
+    display: none;
+  }
+}
