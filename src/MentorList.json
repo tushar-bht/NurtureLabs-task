@@ -58,5 +58,17 @@
     "languages": "Greek, English, French",
     "description": " It has roots in a piece of classical Latin literature from 45 BC, making it over 200e in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going. ",
     "skills": ["Markiting", "SEO", "Content Markiting", "Marketing Automation"]
+  },
+  {
+    "name": "Tushar Bhatt",
+    "profilePhoto": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "price": "500",
+    "rating": "1.9 (120)",
+    "designation": "Founder @ Anshika & CEO @ABC",
+    "sessions": "05 Free Sessions Available",
+    "location": "Delhi, India",
+    "languages": "Greek, English, French",
+    "description": " It has roots in a piece of classical Latin literature from 45 BC, making it over 200e in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going. ",
+    "skills": ["Markiting", "SEO", "Content Markiting", "Marketing Automation"]
   }
 ]
